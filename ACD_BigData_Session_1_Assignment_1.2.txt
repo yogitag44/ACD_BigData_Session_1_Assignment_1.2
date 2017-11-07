@@ -1,0 +1,62 @@
+ACD_BigData_Session_1_Assignment_1.1
+
+Commands and their usage:
+
+1. Pwd: 
+	Command to check the present working directory:
+
+2. Vi:
+	To open Editor of unix and to modify and create any type of file:
+
+
+3. touch: 
+	This command is used to create a temporary file which will be checked during runtime. Kind of condition which we use to check during a program.
+
+4. mkdir:
+	Command to create a new directory and there we can add any file.
+	It works as mkdir Directory_name
+
+
+5. rm:
+	Command to remove existing file or directory or any script, anything.
+	We can use rm -r to forcefully remove any directory.
+
+6: ls: 
+	Ls is use to list all the active and unhidden files and directory present at the current place of the system/path.
+
+7: echo
+	Command is use to print any variable, text or anything present in shell script.
+	Here we have created a test shell script with .sh extension and wrote echo “this is the first assignment” than executed the command using ./test.sh command.
+
+8. cat: 
+	Cat command is use to see all the content present in the file without opening it into any mode i.e. no need to view the file. Just display all the content outside 	of file on the file location.
+
+
+9: who:
+	Who command is use to check all the online/Current user which are log into the server and at what time.
+
+
+10: cd
+	This is the most common and used command. This is use to traverse through the directories. To change from one directory to another we use this command. 
+	Some examples are as follow in the snapshot:
+
+
+11: date:
+	Date command return the current date and time of the region in which you are. Example, here date command will display the time of India (Kolkata).
+
+
+12: cal
+	This is use to display the calendar of the system. 
+
+13: mv
+	Mv is move command, to move files from one directory to another. Or we can rename files also using this command. Both the examples are shown below in the snapshot.
+
+
+14: cp
+	Cp command copies one file and paste it anywhere in the system or to the specified file path.
+	Cp -p  will copy the file with same time stamp. It will not change the time when the file was created.
+
+15: which
+	which (Unix) which is a Unix command used to identify the location of executables. The command takes one or more arguments; for each of these arguments, it prints 	the full path of the executable to stdout that would have been executed if this argument had been entered the shell.
+
+
